@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="play" />
+        <module name="elastic-index-client" />
+        <module name="elastic-config" />
+        <module name="reactive-elastic-query-web-client" />
+        <module name="kafka-model" />
+        <module name="kafka-consumer" />
+        <module name="kafka-to-elastic-service" />
+        <module name="app-config-data" />
+        <module name="kafka-streams-service" />
+        <module name="common-config" />
+        <module name="analytics-service" />
+        <module name="elastic-model" />
+        <module name="common-util" />
+        <module name="elastic-query-web-client-common" />
+        <module name="kafka-producer" />
+        <module name="reactive-elastic-query-service" />
+        <module name="kafka-admin" />
+        <module name="config-server" />
+        <module name="kafka" />
+        <module name="elastic-query-service" />
+        <module name="twitter-to-kafka-service" />
+        <module name="elastic-query-web-client" />
+        <module name="elastic-query-cllient" />
+        <module name="elastic-query-service-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="analytics-service" target="11" />
+      <module name="app-config-data" target="11" />
+      <module name="common-config" target="11" />
+      <module name="common-util" target="11" />
+      <module name="config-server" target="11" />
+      <module name="den" target="11" />
+      <module name="discovery-service" target="11" />
+      <module name="elastic" target="11" />
+      <module name="elastic-config" target="11" />
+      <module name="elastic-index-client" target="11" />
+      <module name="elastic-model" target="11" />
+      <module name="elastic-query-cllient" target="11" />
+      <module name="elastic-query-service" target="11" />
+      <module name="elastic-query-service-common" target="11" />
+      <module name="elastic-query-web-client" target="11" />
+      <module name="elastic-query-web-client-common" target="11" />
+      <module name="kafka" target="11" />
+      <module name="kafka-admin" target="11" />
+      <module name="kafka-consumer" target="11" />
+      <module name="kafka-model" target="11" />
+      <module name="kafka-producer" target="11" />
+      <module name="kafka-streams-service" target="11" />
+      <module name="kafka-to-elastic-service" target="11" />
+      <module name="microservices-demo" target="11" />
+      <module name="play" target="11" />
+      <module name="reactive-elastic-query-service" target="11" />
+      <module name="reactive-elastic-query-web-client" target="11" />
+      <module name="twitter-to-kafka-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="analytics-service" options="-parameters" />
+      <module name="app-config-data" options="-parameters" />
+      <module name="common-config" options="-parameters" />
+      <module name="common-util" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="den" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="elastic" options="" />
+      <module name="elastic-config" options="-parameters" />
+      <module name="elastic-index-client" options="-parameters" />
+      <module name="elastic-model" options="-parameters" />
+      <module name="elastic-query-cllient" options="-parameters" />
+      <module name="elastic-query-service" options="-parameters" />
+      <module name="elastic-query-service-common" options="-parameters" />
+      <module name="elastic-query-web-client" options="-parameters" />
+      <module name="elastic-query-web-client-common" options="-parameters" />
+      <module name="kafka" options="-parameters" />
+      <module name="kafka-admin" options="-parameters" />
+      <module name="kafka-consumer" options="-parameters" />
+      <module name="kafka-model" options="-parameters" />
+      <module name="kafka-producer" options="-parameters" />
+      <module name="kafka-streams-service" options="-parameters" />
+      <module name="kafka-to-elastic-service" options="-parameters" />
+      <module name="play" options="-parameters" />
+      <module name="reactive-elastic-query-service" options="-parameters" />
+      <module name="reactive-elastic-query-web-client" options="-parameters" />
+      <module name="twitter-to-kafka-service" options="-parameters" />
+    </option>
+  </component>
+</project>

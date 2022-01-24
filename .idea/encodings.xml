@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/analytics-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app-config-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-query-service-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-query-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-query-web-client-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-query-web-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic/elastic-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic/elastic-index-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic/elastic-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic/elastic-query-cllient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-streams-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-to-elastic-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/play/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/play/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-elastic-query-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive-elastic-query-web-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/twitter-to-kafka-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

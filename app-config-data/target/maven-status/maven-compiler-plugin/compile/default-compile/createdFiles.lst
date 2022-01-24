@@ -1,0 +1,13 @@
+com\microservices\demo\config\ElasticQueryServiceConfigData.class
+com\microservices\demo\config\ElasticQueryWebClientConfigData$Query.class
+com\microservices\demo\config\ElasticQueryConfigData.class
+com\microservices\demo\config\RetryConfigData.class
+com\microservices\demo\config\ElasticQueryWebClientConfigData$WebClient.class
+com\microservices\demo\config\ElasticQueryWebClientConfigData$Instance.class
+com\microservices\demo\config\KafkaConsumerConfigData.class
+com\microservices\demo\config\ElasticConfigData.class
+com\microservices\demo\config\TwitterToKafkaServiceConfigData.class
+com\microservices\demo\config\ElasticQueryWebClientConfigData.class
+com\microservices\demo\config\KafkaConfigData.class
+com\microservices\demo\config\KafkaProducerConfigData.class
+com\microservices\demo\config\UserConfigData.class

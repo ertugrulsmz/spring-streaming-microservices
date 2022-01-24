@@ -1,0 +1,24 @@
+version: '3.7'
+services:
+  elastic-1:
+    image: docker.elastic.co/elasticsearch/elasticsearch:${ELASTIC_VERSION:-latest}
+    hostname: elastic-1
+    environment:
+      - node.name=elastic-1
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - data01:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+    networks:
+      - ${GLOBAL_NETWORK:-elastic}
+  
+volumes:
+  data01:
+    driver: local

@@ -1,0 +1,22 @@
+  spring:
+    application:
+      name: configserver
+    cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/ertugrulsmz/spring-cloud-config
+            default-label: master
+            username: ertugrulsmz
+            password: ENC(rytaFRzMERO09oQlGI0jF/XLMKE0cR1BEaQEmGOBCP7Fz0KjacTJ5WBBWyfyubnNGhXY+V8TnjP8nn+0djeYGRj2F6fYry9ZrGDy7HgXVxY=)
+            clone-on-start: true
+      fail-fast: true
+
+    security:
+      user:
+        name: spring_cloud_user
+        password: ENC(+s+mBENHdOQS16K0ONM1buVyii8mGH2Xty1bth5lFl4G489coFhnIDX7vyQ+I8BsnkBdpdFxddbbKH1Fo0zc8Q==)
+
+  jasypt:
+    encryptor:
+      password: Demo_Pwd!2020

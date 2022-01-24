@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/analytics-service/analytics-service.iml" filepath="$PROJECT_DIR$/analytics-service/analytics-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-config-data/app-config-data.iml" filepath="$PROJECT_DIR$/app-config-data/app-config-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-config/common-config.iml" filepath="$PROJECT_DIR$/common-config/common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic/elastic.iml" filepath="$PROJECT_DIR$/elastic/elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic/elastic-config/elastic-config.iml" filepath="$PROJECT_DIR$/elastic/elastic-config/elastic-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic/elastic-index-client/elastic-index-client.iml" filepath="$PROJECT_DIR$/elastic/elastic-index-client/elastic-index-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic/elastic-model/elastic-model.iml" filepath="$PROJECT_DIR$/elastic/elastic-model/elastic-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic/elastic-query-cllient/elastic-query-cllient.iml" filepath="$PROJECT_DIR$/elastic/elastic-query-cllient/elastic-query-cllient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-query-service/elastic-query-service.iml" filepath="$PROJECT_DIR$/elastic-query-service/elastic-query-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-query-service-common/elastic-query-service-common.iml" filepath="$PROJECT_DIR$/elastic-query-service-common/elastic-query-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-query-web-client/elastic-query-web-client.iml" filepath="$PROJECT_DIR$/elastic-query-web-client/elastic-query-web-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-query-web-client-common/elastic-query-web-client-common.iml" filepath="$PROJECT_DIR$/elastic-query-web-client-common/elastic-query-web-client-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-admin/kafka-admin.iml" filepath="$PROJECT_DIR$/kafka/kafka-admin/kafka-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-consumer/kafka-consumer.iml" filepath="$PROJECT_DIR$/kafka/kafka-consumer/kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-model/kafka-model.iml" filepath="$PROJECT_DIR$/kafka/kafka-model/kafka-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/kafka/kafka-producer/kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-streams-service/kafka-streams-service.iml" filepath="$PROJECT_DIR$/kafka-streams-service/kafka-streams-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-to-elastic-service/kafka-to-elastic-service.iml" filepath="$PROJECT_DIR$/kafka-to-elastic-service/kafka-to-elastic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-demo.iml" filepath="$PROJECT_DIR$/microservices-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/play/play.iml" filepath="$PROJECT_DIR$/play/play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-elastic-query-service/reactive-elastic-query-service.iml" filepath="$PROJECT_DIR$/reactive-elastic-query-service/reactive-elastic-query-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-elastic-query-web-client/reactive-elastic-query-web-client.iml" filepath="$PROJECT_DIR$/reactive-elastic-query-web-client/reactive-elastic-query-web-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter-to-kafka-service/twitter-to-kafka-service.iml" filepath="$PROJECT_DIR$/twitter-to-kafka-service/twitter-to-kafka-service.iml" />
+    </modules>
+  </component>
+</project>

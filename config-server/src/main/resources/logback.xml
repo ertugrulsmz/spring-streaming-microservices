@@ -1,0 +1,8 @@
+<configuration>
+    <property name="DEV_HOME" value="./config-server/logs"/>
+    <property name="APP_NAME" value="config-server"/>
+
+    <include resource="logback-common.xml"/>
+    <!-- As we have dependency to app-config-data, it will be in our classpath-->
+
+</configuration>
